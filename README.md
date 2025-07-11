@@ -43,6 +43,16 @@ To design and demonstrate a portable **Field Strength Meter** using discrete tra
 | Power Supply      | Battery (portable use) or 5V source        |
 
 ---
+## 📄 Project Files
+```
+field-strength-meter/
+├── README.md                         
+├── Field_Strength_Meter_Report.pdf   
+├── circuit_diagram.jpg               
+├── demo_photo.jpg       
+```
+---
+
 
 ## 🖼️ Circuit Diagram
 
